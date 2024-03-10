@@ -15,7 +15,7 @@
     "remote": "github",
     "repository": "PixelExperience/hardware_xiaomi",
     "target_path": "hardware/xiaomi",
-    "branch": "lineage-20"
+    "branch": "thirteen"
     {
     "remote": "github",
     "repository": "PixelExperience/device_mediatek_sepolicy_vndr",
